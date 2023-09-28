@@ -16,10 +16,10 @@ public class AppTest {
 		assertTrue(true);
 	}
 
-	//@Test
-	//public void testShouldBePassed() {
+	@Test
+	public void testShouldBePassed1() {
 		assertTrue(true);
-	} //
+	}
 
 	@Ignore("Not implemented yet")
 	@Test
